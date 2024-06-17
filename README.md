@@ -18,5 +18,4 @@ O popular jogo da velha feito em javascript, html e css.
 <img alt="Imagem do jogo" width="300px" src="https://i.imgur.com/6kjVfct.png" >
 </div>
  <br>
- O projeto pode ser acessado em:<br>
- https://sorayaribeiro.github.io/Tic-Tac-Toe/
+
