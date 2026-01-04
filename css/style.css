@@ -10,7 +10,7 @@ body {
     width: 100vw;
     height: 100vw;
     margin: 0 auto;
-    background-color: #ff0000;
+    background-color: #16181D;
     color: #fff;
     display: grid;
     grid-template: repeat(3, 1fr) / repeat(3, 1fr)
