@@ -17,7 +17,7 @@ body {
   }
   
   .game>div {
-    border-bottom: 6px solid #ddeeff;
+    border: 6px solid #ddeeff;
     font-family: Helvetica;
     font-weight: bold;
     font-size: 4em;
